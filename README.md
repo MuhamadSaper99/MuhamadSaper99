@@ -202,9 +202,36 @@ Python • Pandas • Power BI • DAX • Galaxy Schema
 
 # 💼 Professional Experience
 
-### 📍 Data Analyst
+## 🚀 Data Engineer  
+**Global Brands Group (GBG)**
 
-Worked on developing business intelligence dashboards, automating reporting processes, and transforming business requirements into analytical solutions using SQL Server, Power BI, and Python.
+**Tech Stack:** Microsoft Fabric • SQL Server • Python • SSIS • SSAS • Power BI • AWS
+
+### Highlights
+
+- Designed, developed, and maintained end-to-end data pipelines for enterprise data integration.
+- Built scalable ETL/ELT workflows using SQL, Python, and SSIS.
+- Developed semantic models with SQL Server Analysis Services (SSAS) to support enterprise reporting.
+- Created interactive Power BI dashboards delivering actionable business insights.
+- Leveraged Microsoft Fabric to build modern data engineering and analytics solutions.
+- Utilized AWS cloud services for scalable data storage and processing.
+- Optimized database performance and implemented data quality validation across multiple systems.
+
+---
+
+## 📊 Data Analyst  
+**Qvetech**
+
+**Tech Stack:** Power BI • SQL Server • Python • Excel • Selenium • BeautifulSoup • Facebook Graph API
+
+### Highlights
+
+- Developed interactive Power BI dashboards to monitor KPIs and business performance.
+- Queried and analyzed data using SQL to support business reporting and decision-making.
+- Cleaned, validated, and transformed datasets using Microsoft Excel and SQL.
+- Built web scraping solutions with Selenium and BeautifulSoup to automate data collection.
+- Integrated with the Facebook Graph API to extract and analyze social media performance metrics.
+- Converted raw data into meaningful insights through visualization and analytical reporting.
 
 ---
 
@@ -243,7 +270,7 @@ Mathematics & Computer Science
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=muhamadsaper99-ctrl&theme=tokyonight"/>
 
 </p>
 
@@ -253,7 +280,7 @@ Mathematics & Computer Science
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadsaper99-ctrl&theme=tokyo-night"/>
 
 </p>
 
