@@ -253,17 +253,6 @@ Mathematics & Computer Science
 - Python for Data Analysis
 
 ---
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muhamadsaper99-ctrl&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muhamadsaper99-ctrl&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -279,16 +268,6 @@ Mathematics & Computer Science
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadsaper99-ctrl&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=muhamadsaper99-ctrl&theme=tokyonight&column=4"/>
 
 </p>
 
