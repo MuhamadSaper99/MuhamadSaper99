@@ -4,7 +4,7 @@
 
 ### Data Engineer | Data Analyst | Business Intelligence 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7B68EE&center=true&vCenter=true&random=false&width=700&lines=Data+Engineer;Microsoft+Fabric+Engineer;ETL%2FELT+Developer;Apache+Spark+Developer;SQL+Server+Specialist;Power+BI+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7B68EE&center=true&vCenter=true&random=false&width=700&lines=Data+Engineer;Microsoft+Fabric+Engineer;ETL%2FELT+Developer;SQL+Server+Specialist;Power+BI+Developer" />
 
 <p>
 Building scalable data platforms that transform raw data into meaningful business insights.
