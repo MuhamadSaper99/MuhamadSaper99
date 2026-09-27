@@ -149,6 +149,23 @@ I enjoy solving complex data engineering challenges using Microsoft Fabric, Apac
 
 # 🚀 Featured Projects
 
+## [🏥 Healthcare Clinic Data Engineering Platform](https://github.com/muhamadsaper99-ctrl/healthcare-clinic-data-platform)
+
+### Technologies
+
+Microsoft Fabric • PySpark • Delta Lake • Dataflow Gen2 • SQL • Data Warehouse • SCD Type 2
+
+### Highlights
+
+- Built an end-to-end **Medallion Architecture**: Bronze → Silver → Gold
+- Implemented **Incremental Data Loading** using PySpark and Delta Lake
+- Developed data cleaning, validation, and incremental extraction processes
+- Designed a **Star Schema** with Fact and Dimension tables
+- Implemented **SCD Type 2** using SQL Stored Procedures for historical tracking
+- Built **Dataflow Gen2** pipelines for Dimension and Fact loading
+- Orchestrated the complete workflow using **Microsoft Fabric Pipelines**
+
+---
 
 ## [💳 Financial Transactions Data Warehouse](https://github.com/muhamadsaper99-ctrl/Financial-Transactions)
 
