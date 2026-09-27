@@ -149,7 +149,7 @@ I enjoy solving complex data engineering challenges using Microsoft Fabric, Apac
 
 # 🚀 Featured Projects
 
-## [🏥 Healthcare Clinic Data Engineering Platform](https://github.com/muhamadsaper99-ctrl/healthcare-clinic-data-platform)
+## [🏥 Healthcare Clinic Data Engineering Platform](https://github.com/MuhamadSaper99/Healthcare-Clinic-Data-Pipeline)
 
 ### Technologies
 
