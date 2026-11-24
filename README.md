@@ -19,13 +19,13 @@ Building scalable data platforms that transform raw data into meaningful busines
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/muhamadsaper99-ctrl">
+<a href="https://github.com/MuhamadSaper99">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=7B68EE&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=MuhamadSaper99&label=Profile%20Views&color=7B68EE&style=for-the-badge"/>
 
 </div>
 
@@ -167,7 +167,7 @@ Microsoft Fabric • PySpark • Delta Lake • Dataflow Gen2 • SQL • Data W
 
 ---
 
-## [💳 Financial Transactions Data Warehouse](https://github.com/muhamadsaper99-ctrl/Financial-Transactions)
+## [💳 Financial Transactions Data Warehouse](https://github.com/MuhamadSaper99/Financial-Transactions)
 
 ### Technologies
 
@@ -185,7 +185,7 @@ Python • SQL Server • SSIS • Power BI • Star Schema
 
 ---
 
-## [🎓 ITI Examination System](https://github.com/muhamadsaper99-ctrl/Online-Examination)
+## [🎓 ITI Examination System](https://github.com/MuhamadSaper99/Online-Examination)
 
 ### Technologies
 
@@ -201,7 +201,7 @@ SQL Server • T-SQL • Stored Procedures • SSRS • Power BI
 
 ---
 
-## [❤️ Bellabeat Health Analytics Dashboard](https://github.com/muhamadsaper99-ctrl/BellaBeat)
+## [❤️ Bellabeat Health Analytics Dashboard](https://github.com/MuhamadSaper99/BellaBeat)
 
 ### Technologies
 
@@ -274,7 +274,7 @@ Mathematics & Computer Science
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=muhamadsaper99-ctrl&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=MuhamadSaper99&theme=tokyonight"/>
 
 </p>
 
@@ -284,7 +284,7 @@ Mathematics & Computer Science
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadsaper99-ctrl&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhamadSaper99&theme=tokyo-night"/>
 
 </p>
 
